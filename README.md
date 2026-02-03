@@ -30,7 +30,7 @@ It features:
 
 
 <p align="center">
-  <img src="https://github.shubhamnarware67=cmd/Voxify/demo/Screenshot 2026-02-02 215149.png" alt="Voxify Preview" width="600px">
+  <img src="https://github.com/shubhamnarware67-cmd/VOXIFY/blob/master/deno/Screenshot%202026-02-02%20215149.png" alt="Voxify Preview" width="600px">
 </p>
 
 > 🎨 Glassmorphism + Gradient theme design for a modern experience.
@@ -38,7 +38,7 @@ It features:
 ---
 
 ## 🚀 Live Demo
-🔗 [**Try Voxify on GitHub Pages**](https://your-github-username.github.io/Voxify)
+🔗 [**Try Voxify on GitHub Pages**](https://github.com/shubhamnarware67-cmd.github.io/Voxify)
 
 ---
 
