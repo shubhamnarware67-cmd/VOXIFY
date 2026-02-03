@@ -62,7 +62,7 @@ It features:
 ### 💻 Steps
 ```bash
 # Clone this repository
-git clone https:shubhamnarware67-cmd/Voxify.git
+git clone https://github.com/shubhamnarware67-cmd/VOXIFY.git
 
 # Navigate to project directory
 cd Voxify
