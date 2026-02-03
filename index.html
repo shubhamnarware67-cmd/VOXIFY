@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>🔊 Voxify | Text to Speech</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/2922/2922439.png" />
+</head>
+<body>
+  <div class="app">
+    <div class="top">
+      <h1>🔊 Voxify</h1>
+      <button id="themeToggle" title="Toggle Theme">🌙</button>
+    </div>
+
+    <textarea id="text" placeholder="Type or paste your text here..."></textarea>
+
+    <div class="control">
+      <label for="voiceSelect">Voice</label>
+      <select id="voiceSelect">
+        <option disabled selected>Loading voices...</option>
+      </select>
+    </div>
+
+    <div class="range">
+      <label>Speed</label>
+      <input type="range" id="rate" min="0.5" max="2" value="1" step="0.1" />
+    </div>
+
+    <div class="range">
+      <label>Pitch</label>
+      <input type="range" id="pitch" min="0" max="2" value="1" step="0.1" />
+    </div>
+
+    <div class="buttons">
+      <button id="speak">▶ Speak</button>
+      <button id="download">⬇ Download</button>
+      <button id="stop" class="danger">⏹ Stop</button>
+    </div>
+
+    <footer>
+      © 2026 <b>Voxify</b>. Created by <b>Shubham Narware</b>. All Rights Reserved.
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
